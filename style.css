@@ -143,9 +143,10 @@ img {
     .container__conteudo {
         display: block;
         position: inherit;
+        margin: auto;
     }
 
     .container__informacoes {
-        padding: 1rem
+        padding: 1rem;
     }
 }
