@@ -1,5 +1,5 @@
 let listaDeNumerosSorteados = []
-let numeroMax = 5
+let numeroMax = 100
 let numeroSecreto;
 inicio();
 
